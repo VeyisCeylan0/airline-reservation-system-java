@@ -1,0 +1,11 @@
+Boeing-747|50|10|10
+Boeing-777|42|9|7
+Embraer-Phenom100|5|2|2
+Airbus-A321|34|6|6
+Boeing-787|40|9|6
+Airbus-A350|45|9|8
+Airbus-A320|30|6|5
+Embraer-E190|25|4|4
+Cessna-CJ3|4|2|4
+HondaJet-HA420|4|2|2
+Gulfstream-G650|8|2|8

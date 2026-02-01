@@ -1,0 +1,4 @@
+admin|1234|STAFF
+hmhmh|hmh|CUSTOMER
+omerK|1517|CUSTOMER
+ali|123|CUSTOMER
