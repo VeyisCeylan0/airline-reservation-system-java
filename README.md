@@ -11,7 +11,7 @@ This project was developed as part of the Object Oriented Programming course at 
 
 ## Technologies
 - Java
-- Swing / JavaFX
+- Swing 
 - JUnit
 
 ## Notes
