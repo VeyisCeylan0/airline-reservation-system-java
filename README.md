@@ -29,3 +29,7 @@ Required external JAR files are provided under the `libraries/` directory
 1. Make sure Java (JDK 17 or compatible) is installed.
 2. Add required libraries from the `libraries/` folder to the project classpath.
 3. Run the application using the provided JAR file:
+or run the `Main` class from the source code.
+
+## Notes
+This project was developed for educational purposes as part of a university course.
